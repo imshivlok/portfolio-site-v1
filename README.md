@@ -5,7 +5,7 @@
   ![GitHub forks](https://img.shields.io/github/forks/imshivlok/portfolio-site?style=social)
   ![Progress](https://img.shields.io/badge/Unstable-FF0000)<br>
   
-  <img src="/images/logo.png" alt="logo" title="logo" width="30%">
+  <img src="/images/logo.jpg" alt="logo" title="logo" width="30%">
 
  <h2>imshivlok</h2>
   A modern-looking portfolio website.<br>Built using pure HTML (No CSS/JS)<br><br>
