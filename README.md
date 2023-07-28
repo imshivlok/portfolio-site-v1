@@ -8,7 +8,7 @@
   <img src="/images/logo.jpg" alt="logo" title="logo" width="30%">
 
  <h2>imshivlok</h2>
-  A modern-looking portfolio website.<br>Built using pure HTML (No CSS/JS)<br><br>
+  A modern-looking portfolio website.<br>Built using HTML/CSS.<br><br>
 <a href="https://imshivlok.github.io/portfolio-site/" align="center"><strong>➥View Demo</strong></a><br>
 </div>
 
