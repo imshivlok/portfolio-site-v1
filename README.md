@@ -25,3 +25,6 @@ If you want to contact me, you can reach me at <a href="https://www.instagram.co
 
 <h2>License</h2>
 This project is <strong>free to use</strong> and does not contains any license.<br><br>
+
+|:warning: DISCLAIMER: This project is currently under development and highly unstable. It works fine on desktop, but has issues on mobile platforms. It will be fixed over future updates.|
+|---|
