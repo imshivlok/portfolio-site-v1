@@ -13,8 +13,9 @@
 </div>
 
 <h2>Demo Screenshots</h2>
-  
-  <img src="/images/screenshot2rounded.png" alt="screenshot" title="screenshot" width="100%">
+
+  <img src="/images/screenshot1rounded.png" alt="screenshot1" title="screenshot1" width="100%"><br>
+  <img src="/images/screenshot2rounded.png" alt="screenshot2" title="screenshot2" width="100%">
 
 <h2>Active Hosts</h2>
 
