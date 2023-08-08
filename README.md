@@ -20,7 +20,7 @@
 <h2>Active Hosts</h2>
 
 1. https://imshivlok.github.io/portfolio-site-v1/<br>
-2. Replit host shall be available soon.
+2. https://portfolio-site-v1--imshivlok.repl.co/
 <h2>Contact</h2>
 If you want to contact me, you can reach me at <a href="https://www.instagram.com/imshivlok">Instagram</a>.
 
